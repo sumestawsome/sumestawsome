@@ -9,9 +9,13 @@
 
 - 🎓 Mahasiswa S1 Ilmu Komputer, Jurusan Teknik Informatika di **Universitas Pendidikan Ganesha (Undiksha)**.
 - 💻 Aktif membangun dan membantu pembuatan *website*, berfokus pada **Next.js**, **JavaScript**, serta **HTML & CSS** murni.
+- 🌐 Kunjungi portofolio resmi saya di **[sumestawsome.pages.dev](https://sumestawsome.pages.dev/)**.
 - 📫 Hubungi atau temukan saya di:
 
 <p align="left">
+  <a href="https://sumestawsome.pages.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-sumestawsome.pages.dev-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/putu-agus-sumerta-yasa-b3782720a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Putu%20Agus%20Sumerta%20Yasa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -19,7 +23,6 @@
     <img src="https://img.shields.io/badge/Instagram-@agus__sumesta-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
-
 ---
 
 ### 🛠️ Tech Stack & Tools
